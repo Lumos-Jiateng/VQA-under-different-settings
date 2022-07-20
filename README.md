@@ -6,3 +6,5 @@ We referred to mindsporeai for full implementations of Resnet and Bert architect
 For more details, please check the .pdf file for our ideas and implementations.
 
 This is also the final project for ZJU NLP course. We ranked high in the evaluation stage.
+
+Visualized results are shown in folder ./results
